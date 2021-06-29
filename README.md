@@ -1,4 +1,4 @@
-# Video Converter App Using Electron
+# Video Converter App Using Electron JS
 
 This is a simple Electron Application to convert Media file from MP4 to HLS format (used for web streams) using the all famous ffmpeg module.
 
@@ -13,6 +13,6 @@ npm install
 npm start
 ```
 
-## Screenshot
+## Video
 
 ![Alt text](gif.gif?raw=true "Video Converter app")
