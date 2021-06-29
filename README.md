@@ -29,6 +29,6 @@ npm install
 npm start
 ```
 
-## Video
+## Application Demo Video
 
 ![Alt text](gif.gif?raw=true "Video Converter app")
